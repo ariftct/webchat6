@@ -1,9 +1,9 @@
 var config = {
-    apiKey: "AIzaSyBqucLe24KRDc842ye5_k_KKagmJJtkO-8",
+    apiKey: "AIzaSyDQoN-9i2AJc8Uih0hkazoFbLqZTpOd8jI",
     authDomain: "webchatdata-dc598-default-rtdb.firebaseio.com",
     databaseURL: "https://webchatdata-dc598-default-rtdb.firebaseio.com",
     storageBucket: "",
-    messagingSenderId: "732903689793"
+    messagingSenderId: "275692971177"
 };
 firebase.initializeApp(config);
 
